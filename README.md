@@ -3,7 +3,7 @@
 
 I'm a beginner developer who only programs for fun, not for work, so please don't expect big things
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: / JAVA / PYTHON / HTML / CSS
 
 - 🔭 I’m currently working on ᴀǫᴜᴀʟɪs 
 - 🌱 I’m currently learning Node.JS 
