@@ -5,7 +5,7 @@ I'm a beginner developer who only programs for fun, not for work, so please don'
 
 Skills: / JAVA / PYTHON / HTML / CSS
 
-- 🔭 I’m currently working on ᴀǫᴜᴀʟɪs 
-- 🌱 I’m currently learning Node.JS 
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning C
 - 📫 How to reach me: on discord hellotuba#3286 
 
