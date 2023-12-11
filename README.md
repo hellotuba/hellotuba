@@ -9,3 +9,4 @@ Skills: / JAVA / PYTHON / HTML / CSS
 - 🌱 I’m currently learning C
 - 📫 How to reach me: on discord hellotuba#3286 
 
+Černý koník Martin s bílou čepicí si myslí (mi3v 2023)
