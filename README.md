@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hellotuba@protonmail.com**
 
-- ⚡ Fun fact **Černý koník Martin s bílou čepicí si myslí (mi3v 2023)**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
