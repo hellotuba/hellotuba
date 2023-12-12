@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hellotuba@protonmail.com**
 
-- ⚡ Fun fact ****
+- ⚡ Fun fact **Sebýk si myslí že se da odebrat permanentní urlhook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
