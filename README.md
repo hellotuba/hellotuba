@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **C++**
 
+- 🔭 I’m currently working on **Crypto live value site**
+  
 - 👨‍💻 All of my projects are available at [hellotuba.eu](hellotuba.eu)
 
 - 📫 How to reach me **hellotuba@protonmail.com**
