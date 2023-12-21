@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm @hellotuba</h1>
 <h3 align="center">Začinající devík, který studuje 🤓</h3>
 
-- 🔭 I’m currently working on **Some Smalls Website APPS**
+- 🔭 I’m currently working on: **Some Smalls Website APPS**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning: **C++**
 
-- 👨‍💻 All of my projects are available at [hellotuba.eu](https://hellotuba.eu/)
+- 👨‍💻 All of my projects are available at: [hellotuba.eu](https://hellotuba.eu/)
 
-- 📫 How to reach me **hellotuba@protonmail.com**
+- 📫 How to reach me: **hellotuba@protonmail.com**
 
-- ⚡ Fun fact **Sebík si myslí že se da odstranit URLHOOK**
+- ⚡ Fun fact: **Sebík si myslí že se da odstranit URLHOOK**
+
+- 🎥 Super Video: [How to Create Basic Web](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
