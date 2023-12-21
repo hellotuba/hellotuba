@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [hellotuba.eu](hellotuba.eu)
+- 👨‍💻 All of my projects are available at [hellotuba.eu](https://hellotuba.eu/)
 
 - 📫 How to reach me **hellotuba@protonmail.com**
 
