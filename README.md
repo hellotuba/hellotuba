@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 🔭 I’m currently working on **Crypto live value site**
+- 🔭 I’m currently working on **Some Smalls Website APPS**
   
 - 👨‍💻 All of my projects are available at [hellotuba.eu](hellotuba.eu)
 
