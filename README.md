@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @hellotuba</h1>
 <h3 align="center">Začinající devík, který studuje 🤓</h3>
 
-- 🔭 I’m currently working on: **Updated version of TODO App, and maybe FiveM**
+- 🔭 I’m currently working on: **Nothing**
 
-- 🌱 I’m currently learning: **C++, LUA**
+- 🌱 I’m currently learning: **C++**
 
 - 👨‍💻 All of my projects are available at: [hellotuba.eu](https://hellotuba.eu/)
 
