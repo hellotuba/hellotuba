@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **hellotuba@protonmail.com**
 
-- ⚡ Fun fact: **Sebík si myslí že se da odstranit URLHOOK**
+- ⚡ Fun fact: **Shoooooooooooooooj**
 
 - 🎥 Super Video: [How to Create Basic Web](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
