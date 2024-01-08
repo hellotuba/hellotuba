@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @hellotuba</h1>
 <h3 align="center">Začinající devík, který studuje 🤓</h3>
 
-- 🔭 I’m currently working on: **Nothing**
+- 🔭 I’m currently working on: **Central RP website**
 
-- 🌱 I’m currently learning: **C++**
+- 🌱 I’m currently learning: **C#**
 
 - 👨‍💻 All of my projects are available at: [hellotuba.eu](https://hellotuba.eu/)
 
