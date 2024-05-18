@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hellotuba@protonmail.com**
 
-- ⚡ Fun fact **Sebík si myslí že se da odstranit URLHOOK**
+- ⚡ Fun fact **HMMMMMMmm...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
