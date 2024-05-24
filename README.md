@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm hellotuba</h1>
 <h3 align="center">Začinající devík, který studuje 🤓</h3>
 
-- 🔭 I’m currently working on **Some Smalls Website APPS**
+- 🔭 I’m currently working on **FiveM things**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **lua**
 
 - 👨‍💻 All of my projects are available at [hellotuba.eu](hellotuba.eu)
 
