@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm hellotuba</h1>
 <h3 align="center">mid Dev</h3>
 
-- 🔭 I’m currently working on **FiveM things**
-
-- 🌱 I’m currently learning **lua**
-
-- 👨‍💻 All of my projects are available at [hellotuba.eu](hellotuba.eu)
-
 - 📫 How to reach me **hellotuba@protonmail.com**
 
 - ⚡ Fun fact **HMMMMMMmm...**
